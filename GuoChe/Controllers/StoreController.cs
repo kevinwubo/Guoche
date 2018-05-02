@@ -24,6 +24,12 @@ namespace GuoChe.Controllers
             return View();
         }
 
+        public void Modify(StoreEntity store)
+        {
+            StoreService.ModifyStore(store);
+            Response.Redirect("/Store/");
+        }
+
         public JsonResult GetCity(int pid)
         {
             List<City> listCity=BaseDataService.GetAllCity();

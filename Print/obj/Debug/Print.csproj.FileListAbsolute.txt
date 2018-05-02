@@ -15,3 +15,6 @@ C:\Users\Administrator\Desktop\GuoChe\Print\obj\Debug\Print.pdb
 C:\Users\Administrator\Desktop\GuoChe\Print\bin\Debug\Print.exe
 C:\Users\Administrator\Desktop\GuoChe\Print\bin\Debug\Print.pdb
 C:\Users\Administrator\Desktop\GuoChe\Print\obj\Debug\Print.csprojResolveAssemblyReference.cache
+E:\WorkFolder\GuoChe\Print\bin\Debug\Print.exe.config
+E:\WorkFolder\GuoChe\Print\obj\Debug\Print.exe
+E:\WorkFolder\GuoChe\Print\obj\Debug\Print.pdb
