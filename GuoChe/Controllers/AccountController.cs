@@ -15,7 +15,7 @@ namespace GuoChe.Controllers
 {
     [Authorize]
     [InitializeSimpleMembership]
-    public class AccountController : Controller
+    public class AccountController : Controller 
     {
         //
         // GET: /Account/Login
